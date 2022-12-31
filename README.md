@@ -1,5 +1,9 @@
 # Dice_Game
-A simple Dice game made with html,css and javasript.
+<font size="4">**A simple Dice game made with html,css and javasript.**</font>
+![Semantic description of image](/images/intro_pic.png)
+
+
+
 ________________________________________________________________________________________________________
 some Snapshots of the game:
 
